@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 160" width="760" height="160" role="img" aria-label="How I work: plan, automate, run in CI, report">
+  <rect width="760" height="160" rx="16" fill="#ffffff"/>
+
+  <!-- cards -->
+  <rect x="20"  y="12" width="160" height="136" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="210" y="12" width="160" height="136" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="400" y="12" width="160" height="136" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="590" y="12" width="150" height="136" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- arrows -->
+  <g fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M186 80 H204 M198 73 L205 80 L198 87"/>
+    <path d="M376 80 H394 M388 73 L395 80 L388 87"/>
+    <path d="M566 80 H584 M578 73 L585 80 L578 87"/>
+  </g>
+
+  <!-- 1. Plan: clipboard -->
+  <rect x="78" y="34" width="44" height="54" rx="6" fill="#eef2ff" stroke="#4f46e5" stroke-width="3"/>
+  <rect x="88" y="28" width="24" height="12" rx="4" fill="#4f46e5"/>
+  <rect x="86" y="50" width="28" height="4" rx="2" fill="#cbd5e1"/>
+  <rect x="86" y="61" width="28" height="4" rx="2" fill="#cbd5e1"/>
+  <rect x="86" y="72" width="18" height="4" rx="2" fill="#cbd5e1"/>
+  <text x="100" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1e293b">Plan</text>
+  <text x="100" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Test cases and scenarios</text>
+
+  <!-- 2. Automate: code -->
+  <text x="290" y="78" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="38" font-weight="700" fill="#4f46e5">&lt;/&gt;</text>
+  <text x="290" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1e293b">Automate</text>
+  <text x="290" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Playwright, Selenium, Appium</text>
+
+  <!-- 3. Run in CI: play in circle -->
+  <circle cx="480" cy="58" r="27" fill="#f0fdf4" stroke="#16a34a" stroke-width="5"/>
+  <polygon points="472,45 472,71 494,58" fill="#16a34a"/>
+  <text x="480" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1e293b">Run in CI</text>
+  <text x="480" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">GitHub Actions</text>
+
+  <!-- 4. Report: bars -->
+  <rect x="640" y="66" width="12" height="22" rx="2" fill="#a5b4fc"/>
+  <rect x="658" y="50" width="12" height="38" rx="2" fill="#4f46e5"/>
+  <rect x="676" y="38" width="12" height="50" rx="2" fill="#16a34a"/>
+  <rect x="634" y="90" width="62" height="3" rx="1.5" fill="#94a3b8"/>
+  <text x="665" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1e293b">Report</text>
+  <text x="665" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#64748b">Clear pass/fail results</text>
+</svg>

@@ -14,7 +14,11 @@
 - 📫 How to reach me: [zobayda.akter18@gmail.com](mailto:zobayda.akter18@gmail.com)
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zobayda18-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobayda18/)
+<p>
+  <a href="https://www.linkedin.com/in/zobayda18/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
 
 ### Languages and Tools
 <p>
@@ -22,6 +26,11 @@
 </p>
 
 Also: Playwright · Appium · Rest Assured · k6 · SQL · Oracle · GitHub Actions
+
+### How I work
+<p align="center">
+  <img src="workflow.svg" alt="How I work: plan, automate, run in CI, report" width="720" />
+</p>
 
 ### Projects
 - [UI-API-Test-Automation-Framework](https://github.com/zobaydadev/UI-API-Test-Automation-Framework): Selenium, TestNG, Rest Assured
