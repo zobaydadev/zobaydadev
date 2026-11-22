@@ -1,12 +1,21 @@
-# Hi 👋, I'm Zobayda Akter
-### QA Automation Engineer from Bangladesh
+<h1 align="center">Hi 👋, I'm Zobayda Akter</h1>
+<h3 align="center">QA Automation Engineer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zobaydadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="hero.svg" alt="Laptop showing a test report with passed and failed checks" width="420" />
+</p>
 
 - 🔭 I'm currently working on test automation for a Salesforce-based mobile platform
 - 💬 Ask me about test automation, API testing and mobile testing
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zobayda18/)
+- 📫 How to reach me: [zobayda.akter18@gmail.com](mailto:zobayda.akter18@gmail.com)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zobayda18-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobayda18/)
+[![Email](https://img.shields.io/badge/Email-zobayda.akter18%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zobayda.akter18@gmail.com)
 
 ### Languages and Tools
 <p>
