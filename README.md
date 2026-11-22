@@ -15,7 +15,6 @@
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zobayda18-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobayda18/)
-[![Email](https://img.shields.io/badge/Email-zobayda.akter18%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zobayda.akter18@gmail.com)
 
 ### Languages and Tools
 <p>
